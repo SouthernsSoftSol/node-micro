@@ -1,1 +1,37 @@
 test
+
+
+import boto3
+import datetime
+from datetime import date
+
+
+client = boto3.client('ec2',region_name = 'eu-west-2')
+response = client.describe_volumes(
+            Filters=[
+                {
+                    'Name': 'status',
+                    'Values': [
+                        'available',
+                    ]
+                },
+            ]
+        )
+print(response)
+for volume in response['Volumes']:
+    today = datetime.datetime.now()
+    volumeCreateDate=volume['CreateTime']
+    volumeCreateDateWithoutZone = volumeCreateDate.replace(tzinfo=None)
+    delta = today-volumeCreateDateWithoutZone
+    print(delta.days)
+    if delta.days >= 0:
+        print("deleting volume {} ".format(volume))
+        volId=volume['VolumeId']
+
+        try:
+            client.delete_volume(
+                VolumeId = volId
+            )
+        except Exception as e:
+            print(e._doc_)
+            print(e.message)
