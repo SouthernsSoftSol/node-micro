@@ -1,6 +1,6 @@
-![Let's Chat](http://i.imgur.com/0a3l5VF.png)
+![Southern's Chat](http://i.imgur.com/0a3l5VF.png)
 
-# What is Let's Chat?
+# What is Southern's Chat?
 
 A self-hosted chat app for small teams.
 
@@ -41,7 +41,7 @@ Run `docker-compose up`, wait for it to initialize completely, and visit `http:/
 
 # Configuration
 
-You can config your Let's Chat Docker instance using one of the following methods:
+You can config your Southern's Chat Docker instance using one of the following methods:
 
 ## Config file
 
@@ -51,4 +51,4 @@ Create a settings.yml file in a directory and then mount that directory as a Doc
 
 ## Environment variables
 
-[See the Let's Chat wiki for a list of envirnoment variables](https://github.com/sdelements/lets-chat/wiki/Environment-variables)
+[See the Southern's Chat wiki for a list of envirnoment variables](https://github.com/sdelements/lets-chat/wiki/Environment-variables)

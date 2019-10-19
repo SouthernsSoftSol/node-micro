@@ -66,7 +66,7 @@
 	"Room": "Stanza",
 	"Post in room?": "Scrivere nella stanza?",
 	"Authentication tokens": "Token di autenticazione",
-	"Auth tokens are used to access the Let's Chat API.": "I token di autenticazione sono usati per accedere alle API di Let's Chat.",
+	"Auth tokens are used to access the Southern's Chat API.": "I token di autenticazione sono usati per accedere alle API di Southern's Chat.",
 	"Generate token": "Genera token",
 	"Revoke token": "Revoca token",
 	"Your generated token is below. It will not be shown again.": "Il tuo token generato è qui sotto e non sarà mostrato un'altra volta.",

@@ -66,7 +66,7 @@
 	"Room": "Herbergi",
 	"Post in room?": "Birta í herbergi?",
 	"Authentication tokens": "Auðkenni",
-	"Auth tokens are used to access the Let's Chat API.": "Auðkenni eru notuð til að gefa aðgang að tölvuviðmóti(API).",
+	"Auth tokens are used to access the Southern's Chat API.": "Auðkenni eru notuð til að gefa aðgang að tölvuviðmóti(API).",
 	"Generate token": "Búa til auðkenni",
 	"Revoke token": "Afvirkja auðkenni",
 	"Your generated token is below. It will not be shown again.": "Nýtt auðkenni birtist að neðan, auðkennið verður ekki birt aftur.",

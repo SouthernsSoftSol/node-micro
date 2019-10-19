@@ -3,9 +3,9 @@
 Please [open an issue](https://github.com/sdelements/lets-chat/issues/new) for support and questions.
 
 
-# Contributing to Let's Chat
+# Contributing to Southern's Chat
 
-Looking to contribute something to Let's Chat? **Here's how you can help.**
+Looking to contribute something to Southern's Chat? **Here's how you can help.**
 
 Please take a moment to review this document in order to make the contribution
 process easy and effective for everyone involved.
@@ -18,7 +18,7 @@ patches and features.
 
 ## Using the issue tracker
 
-Having trouble installing Let's Chat? Search for similar issues or post your new problem on the [mailing list][mailing-list].
+Having trouble installing Southern's Chat? Search for similar issues or post your new problem on the [mailing list][mailing-list].
 
 The [issue tracker][tracker] is the preferred channel for [bug reports](#bug-reports),
 [features requests](#feature-requests) and [submitting pull requests](#pull-requests),

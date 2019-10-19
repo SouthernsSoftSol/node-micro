@@ -1,4 +1,4 @@
-// MODIFIED FOR LET'S CHAT - search this file for "LCB"
+// MODIFIED FOR Southern's Chat - search this file for "LCB"
 
 
 /**

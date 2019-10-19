@@ -66,7 +66,7 @@
 	"Room": "Chatroom",
 	"Post in room?": "Verzenden naar chatroom?",
 	"Authentication tokens": "Authenticatie tokens",
-	"Auth tokens are used to access the Let's Chat API.": "Auth tokens worden gebruikt om de Let's Chat API te gebruiken.",
+	"Auth tokens are used to access the Southern's Chat API.": "Auth tokens worden gebruikt om de Southern's Chat API te gebruiken.",
 	"Generate token": "Genereer token",
 	"Revoke token": "Herroep token",
 	"Your generated token is below. It will not be shown again.": "Uw gegenereerd token staat hieronder. Het zal niet opnieuw getoond worden.",

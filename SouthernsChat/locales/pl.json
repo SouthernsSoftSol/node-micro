@@ -66,7 +66,7 @@
 	"Room": "Pokój",
 	"Post in room?": "Wysłać do pokoju?",
 	"Authentication tokens": "Tokeny uwierzytelniania",
-	"Auth tokens are used to access the Let's Chat API.": "Tokeny uwierzytelniania pozwalają na dostęp do API Let's Chat",
+	"Auth tokens are used to access the Southern's Chat API.": "Tokeny uwierzytelniania pozwalają na dostęp do API Southern's Chat",
 	"Generate token": "Wygeneruj token",
 	"Revoke token": "Odrzuć token",
 	"Your generated token is below. It will not be shown again.": "Twój wygenerowany token znajduje się poniżej. Nie będzie już ponownie pokazany.",

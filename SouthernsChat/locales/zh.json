@@ -66,7 +66,7 @@
 	"Room": "房间",
 	"Post in room?": "在本房发送?",
 	"Authentication tokens": "认证令牌",
-	"Auth tokens are used to access the Let's Chat API.": "Let's Chat API需靠认证令牌验证",
+	"Auth tokens are used to access the Southern's Chat API.": "Southern's Chat API需靠认证令牌验证",
 	"Generate token": "生成令牌",
 	"Revoke token": "撤销令牌",
 	"Your generated token is below. It will not be shown again.": "您的认证令牌如下，之后将不再显示。",

@@ -1,5 +1,5 @@
 //
-// Let's Chat
+// Southern's Chat
 //
 
 'use strict';

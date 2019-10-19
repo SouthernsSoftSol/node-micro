@@ -1,4 +1,4 @@
-![Let's Chat](http://i.imgur.com/0a3l5VF.png)
+![Southern's Chat](http://southernsoftsol.com/images/logo.png)
 
 ![Screenshot](http://i.imgur.com/C4uMD67.png)
 
@@ -54,7 +54,7 @@ problem or idea is not addressed yet, [please open a new issue][new-issue].
 
 ## Documentation
 
-Let's Chat documentation is hosted in the [wiki]. If there is an inaccuracy in
+Southern's Chat documentation is hosted in the [wiki]. If there is an inaccuracy in
 the documentation, [please open a new issue][new-issue].
 
 

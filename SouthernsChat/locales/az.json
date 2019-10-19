@@ -66,7 +66,7 @@
 	"Room": "Otaq",
 	"Post in room?": "Otağa göndər",
 	"Authentication tokens": "Təsdiqləmə tokenləri",
-	"Auth tokens are used to access the Let's Chat API.": "Təsdiq tokenləri Let's Chat API-a giriş üçün istifadə edilir.",
+	"Auth tokens are used to access the Southern's Chat API.": "Təsdiq tokenləri Southern's Chat API-a giriş üçün istifadə edilir.",
 	"Generate token": "Token yarat",
 	"Revoke token": "Tokeni ləğv et",
 	"Your generated token is below. It will not be shown again.": "Yaradılmış tokenləriniz aşağıdakılardır. Bir daha göstərilməyəcəklər.",
