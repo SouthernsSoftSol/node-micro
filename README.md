@@ -58,39 +58,3 @@ problem or idea is not addressed yet, [please open a new issue][new-issue].
 
 Southern's Chat documentation is hosted in the [wiki]. If there is an inaccuracy in
 the documentation, [please open a new issue][new-issue].
-
-
-## Contributing
-
-Please read through our [contributing guidelines][contributing]. Included are
-directions for opening issues, coding standards, and notes on development.
-
-Editor preferences are available in the [editor config][editorconfig] for easy
-use in common text editors. Read more and download plugins at
-<http://editorconfig.org>.
-
-
-## License
-
-Released under [the MIT license][license].
-
-
-[wiki]: https://github.com/sdelements/lets-chat/wiki
-[troubleshooting]: https://github.com/sdelements/lets-chat/blob/master/TROUBLESHOOTING.md
-[mailing-list]: https://groups.google.com/forum/#!forum/lets-chat-app
-[tracker]: https://github.com/sdelements/lets-chat/issues
-[contributing]: https://github.com/sdelements/lets-chat/blob/master/CONTRIBUTING.md
-[new-issue]: https://github.com/sdelements/lets-chat/issues/new
-[editorconfig]: https://github.com/sdelements/lets-chat/blob/master/.editorconfig
-[license]: https://github.com/sdelements/lets-chat/blob/master/LICENSE
-[ldap]: https://github.com/sdelements/lets-chat-ldap
-[kerberos]: https://github.com/sdelements/lets-chat-kerberos
-[s3]: https://github.com/sdelements/lets-chat-s3
-[seccom]: http://securitycompass.com/
-[hubot]: https://github.com/sdelements/hubot-lets-chat
-[azure]: https://github.com/maximilian-krauss/lets-chat-azure
-[install-local]: https://github.com/sdelements/lets-chat/wiki/Installation
-[install-docker]: https://registry.hub.docker.com/u/sdelements/lets-chat/
-[install-heroku]: https://github.com/sdelements/lets-chat/wiki/Heroku
-[install-vagrant]: https://github.com/sdelements/lets-chat/wiki/Vagrant
-[install-cloudron]: https://github.com/sdelements/lets-chat/wiki/Cloudron
